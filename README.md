@@ -1,2 +1,2 @@
 # freeCodeCamp-C
-Projetos do curso [Link](https://youtu.be/KJgsSFOSQv0)
+Projetos do curso da [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
